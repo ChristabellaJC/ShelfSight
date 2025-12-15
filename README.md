@@ -43,3 +43,13 @@ Setelah menjalankan webapp, browser akan terbuka secara otomatis. Jika tidak, ak
 ```text
 http://localhost:8501
 ```
+
+## 7. Menggunakan WebApp
+- Pilih Model yang ingin digunakan, perincian mengenai model dapat dilihat di halaman Help
+- Gunakan kamera perangkat untuk menangkap gambar atau meng-upload gambar yang sudah ada
+- Klik tombol Start Detection
+- Hasil deteksi akan disajikan di dua kolom, In Stock untuk produk yang telah terdeteksi dan Out Of Stock untuk produk yang tidak terdeteksi
+
+Untuk pengarahan lebih rinci, dapat dibaca pada Manual Book
+
+Developer: Christabella Jocelynne Chandra - 535220166
