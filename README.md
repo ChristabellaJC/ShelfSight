@@ -1,4 +1,4 @@
-# ShelfSight
+# ShelfScan
 
 ## 1. Persyaratan
 
